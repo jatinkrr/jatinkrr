@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently learning DevOps and exploring cloud technologies. Passionate about automation, CI/CD, and infrastructure as code. Always eager to learn and contribute to open-source projects!
+Currently learning DevOps and exploring cloud technologies. Passionate about automation, CI/CD, and infrastructure as code. Always eager to learn and contribute to open-source projects!  
 
 
 ## 🌐 Socials:
