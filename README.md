@@ -1,6 +1,6 @@
 # 💫 About Me:
 Currently learning DevOps and exploring cloud technologies. Passionate about automation, CI/CD, and infrastructure as code. Always eager to learn and contribute to open-source projects!  
-
+  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_jatinkr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jatinkrrr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jatinkrr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jatinkr0104@gmail.com) 
